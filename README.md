@@ -21,7 +21,7 @@ Loan prediction models help in the early detection of default risk and can be an
 
 ## Dataset
 
-The dataset used in this project includes information on borrowers such as:
+The dataset used in this project is sourced from Analytics Vidhya. It includes information on borrowers such as:
 - Applicant’s income
 - Coapplicant’s income
 - Loan amount
